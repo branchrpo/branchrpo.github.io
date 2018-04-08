@@ -1,0 +1,33 @@
+body {
+    padding: 0 24vw;
+    margin: 0 auto 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue","Hiragino Sans GB",Arial,sans-serif;
+    font-size: 1.6vw;
+    line-height: 1.42857143;
+    background: #eeeeee;
+}
+
+.content {
+  margin-bottom: 16vmin;
+  width: 100%;
+  display: block;
+}
+
+article { display: block; }
+
+header h1 {
+        font-size: 360%;
+        font-weight: 700;
+        letter-spacing: -.04em;
+        margin-left: -2px;
+        line-height: 1.1;
+        margin-bottom: -.1em;
+        text-decoration: underline;
+}
+
+#subtitle h2 { font-weight: normal; margin: 0; padding: 0; }
+
+#twitter a { color: #00aced; text-decoration: none; }
+#twitter a:hover { text-decoration: underline; }
+#austin a { color: #bf5700; text-decoration: none }
+#austin a:hover {  text-decoration: underline; }
