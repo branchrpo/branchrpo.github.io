@@ -2,12 +2,12 @@ body {
     padding: 0 24vw;
     margin: 0 auto 0;
     font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue","Hiragino Sans GB",Arial,sans-serif;
-    font-size: 3vw;
+    font-size: 2vw;
     line-height: 1.42857143;
-    background: #eeeeee;
 }
 
 .content {
+  margin-top: -5vmin;
   margin-bottom: 16vmin;
   width: 100%;
   display: block;
@@ -36,8 +36,9 @@ header h1 {
 #contact a:hover { text-decoration: underline; }
 
 .content form input {
+
     display: block;
-    width: 100%;
+    width: auto%;
     padding: 1vmin 0;
     margin: 0 0 1.8rem;
     border: none;
